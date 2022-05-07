@@ -5,7 +5,7 @@ function checkValid() {
     } if (input.value == "13/03/2001"){
         confirm("Chắc chắn chưa?");
         confirm("Giỏi quá nhỉ. Xứng đáng được nhận quà.");
-      alert("Thông cảm mới học)) Copy đi nhé được đến đây thôi)))).https://drive.google.com/file/d/1fQU3r30LFr3JMFGcPq6yAZxpAz861KWZ/view?usp=sharing");
+        window.open("https://drive.google.com/file/d/1fQU3r30LFr3JMFGcPq6yAZxpAz861KWZ/view?usp=sharing");
     } else {
         alert("You bad!");
     }
